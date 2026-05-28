@@ -1,0 +1,20 @@
+IoT-23 Saldiri Tespiti - Sonuclar
+Accuracy : 0.9999
+F1-score : 0.9999
+Precision: 0.9999
+Recall   : 0.9999
+ROC-AUC  : 1.0000
+
+              precision    recall  f1-score   support
+
+      Attack       1.00      1.00      1.00      6367
+      Benign       1.00      1.00      1.00       577
+
+    accuracy                           1.00      6944
+   macro avg       1.00      1.00      1.00      6944
+weighted avg       1.00      1.00      1.00      6944
+
+Confusion Matrix (satir=gercek, sutun=tahmin):
+siniflar: ['Attack', 'Benign']
+[[6366    1]
+ [   0  577]]
