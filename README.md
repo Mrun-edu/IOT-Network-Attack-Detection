@@ -52,10 +52,3 @@ Word'de `IoT_Saldiri_Tespiti_Rapor.docx` dosyasını aç → İçindekiler
 tablosuna sağ tıkla → "Alanı güncelleştir" → PDF olarak kaydet.
 
 ---
-
-## ÖNEMLİ NOT — Teslimden önce
-Şu an rapordaki sayılar **DEMO** verisinden gelmektedir (~%98). Teslim
-etmeden önce **mutlaka gerçek IoT-23 verisiyle** (Mod A veya B) çalıştırıp
-`build_report.js` ile raporu yenile. Aksi hâlde grafikler gerçek veriyi
-yansıtmaz. metrics.txt içindeki gerçek değerleri rapordaki Tablo'ya da
-elle güncelleyebilirsin (build_report.js içinde 7. bölüm tablosu).
